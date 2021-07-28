@@ -159,3 +159,8 @@ This project is licensed under the Apache license 2.0 License - see the [LICENSE
 The [CUDPP](https://github.com/cudpp/cudpp) hash code is licensed under BSD License.
 
 The [robin-map](https://github.com/Tessil/robin-map) code is licensed under MIT license.
+
+## Useful Notes for Install
+
+* Change setup file [here](https://github.com/traveller59/spconv/issues/251).
+* Compile notes [here](https://github.com/traveller59/spconv/issues/152).
